@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: blue;
+    background-color: green;
     display: flex;
     justify-content: center;
     align-items: center;
